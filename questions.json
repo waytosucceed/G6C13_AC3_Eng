@@ -1,0 +1,152 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Choose the correct preposition: \"The cat is sleeping ___ the bed.\"",
+    "options": ["on", "in", "at", "for"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "In the sentence \"We're going to the park,\" \"the\" is a preposition.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Fill in the blank: \"The movie starts ___ 7 PM.\"",
+    "options": ["In", "On", "At", "Since"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which preposition best completes the sentence: \"The book is ___ the table.\"",
+    "options": ["of", "on", "in", "with"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "\"During\" is a preposition of time.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "The cat is hiding ____ the table.",
+    "options": ["in", "of", "under", "beside"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "She is interested ____ learning new languages.",
+    "options": ["at", "on", "in", "of"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "They walked ____ the bridge. (across/in)",
+    "options": ["across", "in"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "He is afraid ____ spiders. (with/of)",
+    "options": ["with", "of"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "We will meet ____ the coffee shop. (at/on)",
+    "options": ["at", "on"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which preposition best completes the sentence: \"She's allergic ___ peanuts.\"",
+    "options": ["to", "of", "for", "with"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Fill in the blank: \"The store is closed ___ Sundays.\" (in/on)",
+    "options": ["in", "on"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the correct preposition: \"She's been working here ___ 2010.\"",
+    "options": ["from", "since", "for", "at"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "In the phrase \"afraid of spiders,\" \"of\" is a preposition.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Fill in the blank: \"The book was written ___ Stephen King.\" (from/by)",
+    "options": ["from", "by"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which preposition best completes the sentence: \"We're having dinner ___ 7 PM.\"",
+    "options": ["to", "in", "at", "by"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Prepositions \"Across\" and \"through\" have the same meaning.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which preposition best completes the sentence: \"The cat is sitting ___ the two chairs.\"",
+    "options": ["among", "between", "in", "with"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "In the phrase \"a friend of mine,\" \"mine\" is a preposition.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "In the sentence \"He sat beside me,\" the preposition is \"beside.\"",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "The correct preposition in \"She is married with a doctor\" is \"with.\"",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "The correct preposition in \"They arrived at the airport\" is \"at.\"",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "She is keen ____ photography. (in/on)",
+    "options": ["in", "on"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "The keys are ____ the drawer. (in/at)",
+    "options": ["in", "at"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "The meeting is scheduled ____ next week.",
+    "options": ["at", "on", "in", "for"],
+    "correct": 3
+  }
+]
